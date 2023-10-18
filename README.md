@@ -41,8 +41,9 @@ To know the number of employees in the Employee_Details table, you can use the f
 SELECT COUNT(*) AS number_of_employees
 FROM Employee_Details;
 Employee Salary Analysis
-To analyze employee salaries, you can use the following queries:
 ```
+
+To analyze employee salaries, you can use the following queries:
 
 # Highest Salary
 To find the highest-paid employee, you can use the following query:
