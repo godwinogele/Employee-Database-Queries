@@ -38,3 +38,8 @@ from Employee_Salary;
 select count(*) age
 from Employee_Details
 where age > 30;
+
+---Staff who are less than 30years
+Select EmployeeID, FirstName, Age, Gender
+from Employee_Details
+where age < 30
