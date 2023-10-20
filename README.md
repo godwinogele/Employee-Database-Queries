@@ -76,5 +76,10 @@ SELECT COUNT(*) AS age
 FROM Employee_Details
 WHERE Age < 30;
 ```
-
+To see the details of employees under the age of 30, you can use the following query:
+```sql
+SELECT EmployeeID, FirstName, Age, Gender
+FROM Employee_Details
+WHERE age < 30
+```
 Feel free to use these SQL queries to retrieve and analyze data from your Employee Database.
