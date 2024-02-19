@@ -1,5 +1,5 @@
 # Employee Database Queries
-This repository contains SQL queries for working with an Employee Database. The following queries demonstrate how to retrieve and analyze data from the Employee_Details and Employee_Salary tables.
+This repository contains SQL queries for retrieving data from an Employee Database. The following queries demonstrate how to retrieve and analyze data from the Employee_Details and Employee_Salary tables.
 
 # Using 'Select' Statements
 To retrieve data from the Employee_Details table, you can use the following SQL query:
